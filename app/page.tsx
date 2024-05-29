@@ -10,7 +10,7 @@ export default function Home() {
               alt="MAP"
               className={styles.vercelLogo}
               width={1024}
-              height={768}
+              height={640}
               priority
             />
 
