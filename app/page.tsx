@@ -8,8 +8,8 @@ export default function Home() {
               src="/img-192.png"
               alt="MAP"
               className={styles.vercelLogo}
-              width={1344}
-              height={840}
+              width={1300}
+              height={800}
               priority
             />
 
